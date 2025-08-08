@@ -36,6 +36,9 @@ for x in range (cor):
 	print("                                       ")
 
 
+# Erick Josue Perez 
+# @Yaret_hanns instagram 
+# Jodue_line
 
 
 
